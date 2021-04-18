@@ -325,7 +325,7 @@ ax.set_xticklabels(bigram_df.Keys.values.tolist(), rotation=90);
 
 
     
-![png](README_files/README_13_0.png)
+![png](README_files/CFM_Interview_Dashboard_image.png)
     
 
 
